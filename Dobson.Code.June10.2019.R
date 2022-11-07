@@ -1,4 +1,4 @@
-setwd("~/Box Sync/amd338@cornell.edu - Annise Dobson's Files and Folders/Root architecture")
+setwd("~/Root architecture")
 library(lavaan)
 library(qgraph)
 library(semPlot)
